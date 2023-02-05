@@ -1,3 +1,3 @@
 # netflixClone
-# Feel Free to contribute init 
+# Feel Free to contribute to it 
 # InFuture I will land into depth
