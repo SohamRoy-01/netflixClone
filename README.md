@@ -6,7 +6,7 @@ Welcome to the Netflix clone website, a fun project built using JavaScript! This
 
 This website was built entirely with [JavaScript](https://www.javascript.com/) and is designed to mimic the look and feel of the real Netflix website. It includes a range of features, including user authentication, movie and TV show browsing, searching, trailer playback, and the ability to add movies and TV shows to your personal "My List."
 
-## Features
+## ➡️ Features
 
 * User authentication (Sign up, Sign in, Sign out)
 * Browse movies and TV shows
@@ -14,7 +14,7 @@ This website was built entirely with [JavaScript](https://www.javascript.com/) a
 * Play movie trailers
 * Add movies and TV shows to "My List"
 
-## Screenshots
+## 🖨️ Screenshots
 
 Take a peek at some screenshots from the website:
 
@@ -29,7 +29,7 @@ Take a peek at some screenshots from the website:
 ![Screenshot of a movie's trailer page](https://user-images.githubusercontent.com/104237973/221189025-542d0ed6-cd97-4cff-b760-88bb17b019b8.png)
 
 
-## Technologies Used
+## 🛡️ Technologies Used
 
 This website was built using the following technologies:
 
@@ -38,7 +38,7 @@ This website was built using the following technologies:
 * JavaScript
 
 
-## Installation
+## 🛠️ Installation
 
 To run this project locally, you can follow these steps:
 
@@ -55,17 +55,19 @@ To run this project locally, you can follow these steps:
 That's it! You should now be able to explore the website on your own machine.
 
 
-## Contributors
+## ⛩️ Contributors
 
 This website was developed by [Soham Roy](https://github.com/SohamRoy-01) as a personal project.
 
 
-## License
+## 🎗️ License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a starting point for your own projects, or modify it as you see fit.
 
 
+## 🙏 Support
 
+Don't forget to leave a star ⭐️
 
 
 
