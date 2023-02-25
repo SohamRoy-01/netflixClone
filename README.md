@@ -57,7 +57,7 @@ That's it! You should now be able to explore the website on your own machine.
 
 ## ⛩️ Contributors
 
-This website was developed by [Soham Roy](https://github.com/SohamRoy-01) as a personal project.
+This website was developed by me ([Soham Roy](https://github.com/SohamRoy-01)) as a personal project.
 
 
 ## 🎗️ License
