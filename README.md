@@ -16,7 +16,7 @@ This website was built entirely with [JavaScript](https://www.javascript.com/) a
 
 ## 🖨️ Screenshots
 
-Take a peek at some screenshots from the website:
+Take a peek at some screenshots from our website:
 
 ![Screenshot of the Netflix clone homepage](https://user-images.githubusercontent.com/104237973/221188977-5437146f-e08c-462c-a6d9-c83437ace76b.png)
 
